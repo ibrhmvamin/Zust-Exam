@@ -1,0 +1,14 @@
+﻿.deleteNotification:hover {
+    cursor: pointer;
+}
+
+.chatFriends {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.ul li {
+    margin-top: 40px;
+}
